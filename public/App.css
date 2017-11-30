@@ -1,0 +1,38 @@
+.image-content {
+  background-image: url(https://photojournal.jpl.nasa.gov/jpeg/PIA07853.jpg);
+  padding-top: 25rem;
+  padding-bottom: calc(20rem - 75px);
+  background-position: center;
+  background-size: cover;
+  opacity: 0.9;
+  border-bottom: 3px black solid;
+}
+
+.table-content {
+  padding: 75px 25px 0px 25px;
+}
+
+.header {
+  background-color: black;
+  text-align: center;
+  margin-bottom: -10px;
+}
+
+h1 {
+  color: white;
+  padding: 20px 0px;
+}
+
+h3 {
+  color: white;
+}
+
+h4 {
+  padding-top: 15px;
+  padding-bottom: 45px;
+}
+
+.border_styles {
+  text-align: center;
+  color: black;
+}
